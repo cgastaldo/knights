@@ -29,7 +29,7 @@ function knightGame(start, target) {
             queue.push([[newX, newY], newPath]);
          }
       });
-   }export default 
+   }
    return null;
 }
 const start = [0, 0];
